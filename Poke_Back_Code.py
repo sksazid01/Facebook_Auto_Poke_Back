@@ -3,7 +3,7 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 
 driver = webdriver.Chrome()
-driver.get("") #Facebook Link here
+driver.get("replace this") #Facebook Link here
 time.sleep(1)
 
 
